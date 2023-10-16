@@ -1188,3 +1188,194 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.16-18.28.56:671][774]LogDirectoryWatcher: Display: A directory notification failed for 'S:/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys/Saved/Collections/' due to buffer overflow. Attemping another request...
 [2023.10.16-18.28.56:671][774]LogDirectoryWatcher: Display: A directory notification failed for 'S:/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys/Content/Collections/' due to buffer overflow. Attemping another request...
 [2023.10.16-18.28.56:671][774]LogDirectoryWatcher: Display: A directory notification failed for 'S:/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys/Content/Developers/ralbertsen/Collections/' due to buffer overflow. Attemping another request...
+[2023.10.16-18.30.55:681][407]LogDirectoryWatcher: Display: A directory notification failed for 'S:/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys/Content/' due to buffer overflow. Attemping another request...
+[2023.10.16-18.30.55:681][407]LogDirectoryWatcher: Display: A directory notification failed for 'S:/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys/Content/' due to buffer overflow. Attemping another request...
+[2023.10.16-18.30.55:681][407]LogDirectoryWatcher: Display: A directory notification failed for 'S:/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys/Content/' due to buffer overflow. Attemping another request...
+[2023.10.16-18.30.55:681][407]LogDirectoryWatcher: Display: A directory notification failed for 'S:/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys/Content/' due to buffer overflow. Attemping another request...
+[2023.10.16-18.30.56:682][515]LogDirectoryWatcher: Display: A directory notification failed for 'S:/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys/Content/Collections/' due to buffer overflow. Attemping another request...
+[2023.10.16-18.30.56:682][515]LogDirectoryWatcher: Display: A directory notification failed for 'S:/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys/Content/Developers/ralbertsen/Collections/' due to buffer overflow. Attemping another request...
+[2023.10.16-18.30.56:682][515]LogDirectoryWatcher: Display: A directory notification failed for 'S:/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys/Saved/Collections/' due to buffer overflow. Attemping another request...
+[2023.10.16-18.30.56:682][515]LogDirectoryWatcher: Display: A directory notification failed for 'S:/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys/Content/Collections/' due to buffer overflow. Attemping another request...
+[2023.10.16-18.30.56:682][515]LogDirectoryWatcher: Display: A directory notification failed for 'S:/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys/Content/Developers/ralbertsen/Collections/' due to buffer overflow. Attemping another request...
+[2023.10.16-18.30.56:682][515]LogDirectoryWatcher: Display: A directory notification failed for 'S:/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys/Saved/Collections/' due to buffer overflow. Attemping another request...
+[2023.10.16-18.31.47:275][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.10.16-18.31.47:549][997]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.16-18.31.47:564][997]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Christmas/Maps/TestLevel.TestLevel
+[2023.10.16-18.31.47:564][997]Cmd: MAP LOAD FILE="S:/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys/Content/Christmas/Maps/TestLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.10.16-18.31.47:564][997]LightingResults: New page: Lighting Build
+[2023.10.16-18.31.47:564][997]LoadErrors: New page: Loading map: TestLevel.umap
+[2023.10.16-18.31.47:566][997]LogWorld: UWorld::CleanupWorld for FlashlightLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.16-18.31.47:566][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.16-18.31.47:566][997]MapCheck: New page: Map Check
+[2023.10.16-18.31.47:566][997]LightingResults: New page: Lighting Build
+[2023.10.16-18.31.47:576][997]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.16-18.31.47:582][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.10.16-18.31.47:584][997]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.16-18.31.47:584][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.16-18.31.47:596][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.10.16-18.31.47:605][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.10.16-18.31.47:707][997]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestLevel'.
+[2023.10.16-18.31.47:708][997]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.16-18.31.47:708][997]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.16-18.31.47:708][997]LogAIModule: Creating AISystem for world TestLevel
+[2023.10.16-18.31.47:733][997]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.16-18.31.47:747][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.10.16-18.31.47:766][997]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.16-18.31.47:768][997]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.755ms to complete.
+[2023.10.16-18.31.47:768][997]LogFileHelpers: Loading map 'TestLevel' took 0.204
+[2023.10.16-18.31.47:808][997]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.16-18.31.47:808][997]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.16-18.31.47:809][997]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.16-18.31.47:809][997]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.16-18.31.47:810][997]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.16-18.31.47:810][997]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.16-18.31.47:811][997]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.16-18.31.48:950][116]LogShaderCompilers: Display: ================================================
+[2023.10.16-18.31.48:950][116]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.16-18.31.48:950][116]LogShaderCompilers: Display: Total job queries 3,564, among them cache hits 24 (0.67%)
+[2023.10.16-18.31.48:950][116]LogShaderCompilers: Display: Tracking 3,537 distinct input hashes that result in 2,515 distinct outputs (71.11%)
+[2023.10.16-18.31.48:950][116]LogShaderCompilers: Display: RAM used: 58.62 MiB of 1.60 GiB budget. Usage: 3.58%
+[2023.10.16-18.31.48:950][116]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.16-18.31.48:950][116]LogShaderCompilers: Display: Shaders Compiled: 3,537
+[2023.10.16-18.31.48:950][116]LogShaderCompilers: Display: Jobs assigned 3,540, completed 3,537 (99.92%)
+[2023.10.16-18.31.48:950][116]LogShaderCompilers: Display: Average time worker was idle: 4.67 s
+[2023.10.16-18.31.48:950][116]LogShaderCompilers: Display: Time job spent in pending queue: average 225.17 s, longest 477.53 s
+[2023.10.16-18.31.48:950][116]LogShaderCompilers: Display: Job execution time: average 7.11 s, max 23.98 s
+[2023.10.16-18.31.48:950][116]LogShaderCompilers: Display: Job life time (pending + execution): average 232.47 s, max 477.94
+[2023.10.16-18.31.48:950][116]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 534.32 s
+[2023.10.16-18.31.48:950][116]LogShaderCompilers: Display: Jobs were issued in 423 batches (only local compilation was used), average 8.37 jobs/batch
+[2023.10.16-18.31.48:950][116]LogShaderCompilers: Display: Average processing rate: 6.62 jobs/sec
+[2023.10.16-18.31.48:950][116]LogShaderCompilers: Display: Total thread time: 2,539.783 s
+[2023.10.16-18.31.48:950][116]LogShaderCompilers: Display: Total thread preprocess time: 79.886 s
+[2023.10.16-18.31.48:950][116]LogShaderCompilers: Display: Percentage time preprocessing: 3.15%
+[2023.10.16-18.31.48:950][116]LogShaderCompilers: Display: Effective parallelization: 4.75 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.10.16-18.31.48:950][116]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.10.16-18.31.48:951][116]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 5.66 sec, max 6.62 sec, min 3.87 sec)
+[2023.10.16-18.31.48:951][116]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 5.64 sec, max 9.34 sec, min 2.04 sec)
+[2023.10.16-18.31.48:951][116]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 3.90 sec, max 3.90 sec, min 3.90 sec)
+[2023.10.16-18.31.48:951][116]LogShaderCompilers: Display:                                        FCloudRenderViewPS010 (compiled    1 times, average 3.13 sec, max 3.13 sec, min 3.13 sec)
+[2023.10.16-18.31.48:951][116]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 2.60 sec, max 2.60 sec, min 2.60 sec)
+[2023.10.16-18.31.48:951][116]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.10.16-18.31.48:951][116]LogShaderCompilers: Display:                                             FDeferredLightPS - 10.35% of total time (compiled  150 times, average 1.75 sec, max 4.19 sec, min 1.48 sec)
+[2023.10.16-18.31.48:951][116]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 4.95% of total time (compiled   96 times, average 1.31 sec, max 1.97 sec, min 0.98 sec)
+[2023.10.16-18.31.48:951][116]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.35% of total time (compiled  128 times, average 0.86 sec, max 1.33 sec, min 0.51 sec)
+[2023.10.16-18.31.48:951][116]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 4.27% of total time (compiled   96 times, average 1.13 sec, max 1.57 sec, min 0.52 sec)
+[2023.10.16-18.31.48:951][116]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.26% of total time (compiled  128 times, average 0.84 sec, max 1.43 sec, min 0.61 sec)
+[2023.10.16-18.31.48:951][116]LogShaderCompilers: Display: ================================================
+[2023.10.16-18.31.49:922][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.10.16-18.31.50:515][225]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.16-18.31.50:521][225]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Christmas/Maps/House_Layout.House_Layout
+[2023.10.16-18.31.50:521][225]Cmd: MAP LOAD FILE="S:/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys/Content/Christmas/Maps/House_Layout.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.10.16-18.31.50:521][225]LightingResults: New page: Lighting Build
+[2023.10.16-18.31.50:521][225]LoadErrors: New page: Loading map: House_Layout.umap
+[2023.10.16-18.31.50:524][225]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.16-18.31.50:525][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.16-18.31.50:525][225]MapCheck: New page: Map Check
+[2023.10.16-18.31.50:525][225]LightingResults: New page: Lighting Build
+[2023.10.16-18.31.50:537][225]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.16-18.31.50:545][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.10.16-18.31.50:555][225]LogWorld: UWorld::CleanupWorld for House_Layout, bSessionEnded=true, bCleanupResources=true
+[2023.10.16-18.31.50:556][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.16-18.31.50:570][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.10.16-18.31.50:581][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.10.16-18.31.50:626][225]LogAudio: Display: Audio Device (ID: 1) registered with world 'House_Layout'.
+[2023.10.16-18.31.50:626][225]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.16-18.31.50:626][225]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.16-18.31.50:626][225]LogAIModule: Creating AISystem for world House_Layout
+[2023.10.16-18.31.50:657][225]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.16-18.31.50:674][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.10.16-18.31.50:696][225]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.16-18.31.50:696][225]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.263ms to complete.
+[2023.10.16-18.31.50:696][225]LogFileHelpers: Loading map 'House_Layout' took 0.174
+[2023.10.16-18.31.50:744][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.16-18.31.50:745][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.16-18.31.50:745][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.16-18.31.50:746][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.16-18.31.50:746][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.16-18.31.50:747][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.16-18.31.50:747][225]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.16-18.32.08:549][135]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.16-18.32.08:550][135]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.16-18.32.08:550][135]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.16-18.32.08:551][135]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.16-18.32.08:551][135]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.16-18.32.08:552][135]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.16-18.32.08:552][135]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.16-18.32.08:552][135]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.16-18.32.08:554][135]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.16-18.32.08:554][135]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.10.16-18.32.08:579][136]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.16-18.32.11:360][365]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.16-18.32.12:934][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.10.16-18.32.12:950][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.10.16-18.32.14:906][508]LogSlate: Window 'Save Content' being destroyed
+[2023.10.16-18.32.15:150][508]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.16-18.32.15:241][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.10.16-18.32.15:250][508]LogPackageLocalizationCache: Processed 44 localized package path(s) for 1 prioritized culture(s) in 0.007664 seconds
+[2023.10.16-18.32.15:269][508]LogSerialization: UsePackageTrailer: 'true'
+[2023.10.16-18.32.18:149][508]LogSavePackage: Moving output files for package: /Game/Christmas/Maps/House_Layout
+[2023.10.16-18.32.18:154][508]LogSavePackage: Moving 'S:/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys/Saved/House_Layout8CEEEAB54D56B88AB9C88F84A2739D11.tmp' to 'S:/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys/Content/Christmas/Maps/House_Layout.umap'
+[2023.10.16-18.32.18:207][508]LogFileHelpers: Saving map 'House_Layout' took 2.998
+[2023.10.16-18.32.18:215][508]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.06 sec
+[2023.10.16-18.32.18:219][508]AssetCheck: New page: Asset Save: House_Layout
+[2023.10.16-18.32.18:219][508]LogContentValidation: Display: Validating /Script/Engine.World /Game/Christmas/Maps/House_Layout.House_Layout
+[2023.10.16-18.32.18:239][509]LogAutomationController: Ignoring very large delta of 5.32 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Bridge/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Bridge/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/TraceUtilities/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/TraceUtilities/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Editor/GLTFImporter/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Editor/GLTFImporter/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Media/MediaPlate/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Media/MediaPlate/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/FX/Niagara/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Runtime/AudioWidgets/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Runtime/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Runtime/Metasound/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Runtime/Metasound/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Runtime/ResonanceAudio/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Runtime/WaveTable/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Animation/ControlRig/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Animation/ControlRig/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Animation/IKRig/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Animation/IKRig/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Animation/ControlRigSpline/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Interchange/Runtime/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Interchange/Runtime/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/MovieScene/SequencerScripting/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Experimental/ChaosCaching/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Experimental/Dataflow/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Experimental/FullBodyIK/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Experimental/GeometryFlow/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Experimental/MeshLODToolset/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Experimental/MeshLODToolset/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Experimental/UVEditor/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Experimental/UVEditor/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/2D/Paper2D/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Enterprise/GLTFExporter/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:086][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.34:088][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at '//ds-ark/content/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys'
+[2023.10.16-18.32.51:122][931]LogSlate: Window 'Submit Files' being destroyed
+[2023.10.16-18.32.52:500][931]LogSourceControl: commit successful: [AlbertsenJr 31df02d] MOve for Test
+[2023.10.16-18.32.52:671][931]SourceControl: [AlbertsenJr 31df02d] MOve for Test
+[2023.10.16-18.32.52:671][931]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2023.10.16-18.32.52:699][931]SourceControl: Commited [AlbertsenJr 31df02d] MOve for Test.
+[2023.10.16-18.32.52:729][932]LogAutomationController: Ignoring very large delta of 18.65 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.16-18.32.55:701][189]LogDirectoryWatcher: Display: A directory notification failed for 'S:/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys/Content/' due to buffer overflow. Attemping another request...
+[2023.10.16-18.32.55:701][189]LogDirectoryWatcher: Display: A directory notification failed for 'S:/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys/Content/' due to buffer overflow. Attemping another request...
+[2023.10.16-18.32.55:701][189]LogDirectoryWatcher: Display: A directory notification failed for 'S:/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys/Content/' due to buffer overflow. Attemping another request...
+[2023.10.16-18.32.55:701][189]LogDirectoryWatcher: Display: A directory notification failed for 'S:/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys/Content/' due to buffer overflow. Attemping another request...
+[2023.10.16-18.32.56:888][274]LogDirectoryWatcher: Display: A directory notification failed for 'S:/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys/Saved/Collections/' due to buffer overflow. Attemping another request...
+[2023.10.16-18.32.56:889][274]LogDirectoryWatcher: Display: A directory notification failed for 'S:/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys/Content/Developers/ralbertsen/Collections/' due to buffer overflow. Attemping another request...
+[2023.10.16-18.32.56:889][274]LogDirectoryWatcher: Display: A directory notification failed for 'S:/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys/Content/Collections/' due to buffer overflow. Attemping another request...
+[2023.10.16-18.32.56:889][274]LogDirectoryWatcher: Display: A directory notification failed for 'S:/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys/Saved/Collections/' due to buffer overflow. Attemping another request...
+[2023.10.16-18.32.56:889][274]LogDirectoryWatcher: Display: A directory notification failed for 'S:/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys/Content/Developers/ralbertsen/Collections/' due to buffer overflow. Attemping another request...
+[2023.10.16-18.32.56:889][274]LogDirectoryWatcher: Display: A directory notification failed for 'S:/Academics/Courses/GAME_405/2023_T4/students/rAlbertsen/Clone_Repository/ChristmasEveAtKellys/Content/Collections/' due to buffer overflow. Attemping another request...
